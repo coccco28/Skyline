@@ -1,0 +1,28 @@
+[
+		{
+			"name": "wallpaper",
+			"author": "coccco28",
+			"url": "https://raw.githubusercontent.com/coccco28/Skyline/main/wallpaper.jpg",
+			"dimensions": "1440 x 3040",
+                        "downloadable": "true",
+			"copyright": ""
+		},
+		{
+			"name": "wallpaper1",
+			"author": "coccco28",
+			"url": "https://raw.githubusercontent.com/coccco28/Skyline/main/wallpaper1.jpg",
+			"dimensions": "1440 x 3040",
+                        "downloadable": "true",
+			"copyright": ""
+		},
+		{
+			"name": "wallpaper2",
+			"author": "coccco28",
+			"url": "https://raw.githubusercontent.com/coccco28/Skyline/main/wallpaper2.jpg",
+			"dimensions": "1440 x 3040",
+                        "downloadable": "true",
+			"copyright": ""
+		}
+                
+              	
+]
